@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+strangle 30 wine $WINEPREFIX/Program\ Files\ (x86)/SURVEY_PROGRAM/SURVEY_PROGRAM.exe
